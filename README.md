@@ -7,13 +7,13 @@ Legends Of Idleon Helper with auto-resize and fishing overlay functionality
 
 
 # Instructions
-## Auto-Resize
+### Auto-Resize
 1) Be sure to run IdleonHelper before running game
 2) Set your desired size and position of game
 3) Select "Save Current Position" from Helper context menu
 4) Restart game to see it in work
 
-## Fishing Helper
+### Fishing Helper
 1) Select "Fishing MiniGame Helper" from Helper context menu
 2) Select both corners of minigame like shown
 3) Rightclick anywhere to turn off gui
