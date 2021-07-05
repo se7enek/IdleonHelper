@@ -3,7 +3,7 @@ Legends Of Idleon Helper with auto-resize and fishing overlay functionality
 
 [Download](https://github.com/se7enek/IdleonHelper/releases/tag/v.1.0.0)
 
-[VirusTotal](https://www.virustotal.com/gui/file/0f9c17bafcb61b6cfb7426aa52287ad433924dd3668db8676455a17d6b4f6081/detection)
+[VirusTotal](https://www.virustotal.com/gui/file/0f9c17bafcb61b6cfb7426aa52287ad433924dd3668db8676455a17d6b4f6081/detection) (false-positive tho, like every compiled script)
 
 
 # Instructions
