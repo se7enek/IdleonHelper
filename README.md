@@ -25,7 +25,9 @@ Legends Of Idleon Helper with auto-resize and fishing overlay functionality
 # Instructions
 
 As soon as u run executable file, IdleonHelper icon should appear in Tray Menu.
+
 Right click it to access settings and features
+
 ![TrayMenu](https://i.imgur.com/0g6cHnf.png)
 
 ### Auto-Resize (Steam-only)
