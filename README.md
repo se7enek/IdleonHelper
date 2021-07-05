@@ -6,6 +6,22 @@ Legends Of Idleon Helper with auto-resize and fishing overlay functionality
 [VirusTotal](https://www.virustotal.com/gui/file/0f9c17bafcb61b6cfb7426aa52287ad433924dd3668db8676455a17d6b4f6081/detection) (false-positive tho, like every compiled script)
 
 
+### Features
+
+
+**Auto-Resize** - remembers saved position and size of game to automatically restore these whenever game is launched
+
+![AutoResize](https://i.imgur.com/FMV2YOP.gif)
+
+**Fishing Helper** - places overlay on top of your minigame area while darkening area around it to practice fishing
+
+![FishingHelper](https://i.imgur.com/VzhVHag.gif)
+
+**Auto-Start with Windows** - ability to toggle automatic startup of tool with windows.
+
+![AutoStart](https://i.imgur.com/MyGHC6H.png)
+
+
 # Instructions
 ### Auto-Resize (Steam-only)
 1) Be sure to run IdleonHelper before running game
