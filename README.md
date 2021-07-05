@@ -21,6 +21,6 @@ Legends Of Idleon Helper with auto-resize and fishing overlay functionality
 
 ## LavaFlame2's Official Statement
 
-![LavaStatement](https://github.com/se7enek/IdleonHelper/blob/main/Lava_Statement.png?raw=true)
+![LavaStatement](https://github.com/se7enek/IdleonHelper/blob/main/LavaFlame2_Statement.png?raw=true)
 
 [Official Discord Message Link](https://discord.com/channels/437797104786604034/738868424813445172/861536797221715968)
