@@ -42,6 +42,14 @@ Right click it to access settings and features
 3) Rightclick anywhere to turn off gui
 
 
+# Known Issues
+
+1) If the gray areas overlap each other, you might be using Windows10 Scaling option. Simply download this version (will commit later): [IdleonHelper_woScaling.exe](https://cdn.discordapp.com/attachments/860959133552738305/861733211050213456/IdleonHelper_woScaling.exe)
+2) If you dont see overlay image but you see text "overlay2.png" instead, download the *images.zip* from Download link and unpack to same directory as executable
+3) Any other issue? Contact me on discord: se7en#3526
+
+
+
 ## LavaFlame2's Official Statement
 
 ![LavaStatement](https://github.com/se7enek/IdleonHelper/blob/main/LavaFlame2_Statement.png?raw=true)
