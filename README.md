@@ -1,3 +1,12 @@
+# Table of Contents
+- [IdleonHelper](#idleonhelper)
+    + [Features](#features)
+- [Instructions](#instructions)
+    + [Auto-Resize (Steam-only)](#auto-resize--steam-only-)
+    + [Fishing Helper (works on both Steam and Web)](#fishing-helper--works-on-both-steam-and-web-)
+- [Known Issues](#known-issues)
+  * [LavaFlame2's Official Statement](#lavaflame2-s-official-statement)
+
 # IdleonHelper
 Legends Of Idleon Helper with auto-resize and fishing overlay functionality
 
