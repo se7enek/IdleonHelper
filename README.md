@@ -53,7 +53,7 @@ Right click it to access settings and features
 
 # Known Issues
 
-1) If the gray areas overlap each other, you might be using Windows10 Scaling option. Simply download this version (will commit later): [IdleonHelper_woScaling.exe](https://cdn.discordapp.com/attachments/1227804137387855905/1228093344828096625/IdleonHelper_woScaling.exe?ex=662aca0e&is=6618550e&hm=9fcd925bcbe65446c671ad99282cd8317edd9ab59510c801cf600cc261603c90&)
+1) If the gray areas overlap each other, you might be using Windows10 Scaling option. Simply download this version (will commit later): [IdleonHelper_woScaling.exe](https://github.com/se7enek/IdleonHelper/releases/download/v.1.0.0/IdleonHelper_woScaling.exe)
 2) If you dont see overlay image but you see text "overlay2.png" instead, download the *images.zip* from Download link and unpack to same directory as executable
 3) Any other issue? Contact me on discord: se7en#3526
 
